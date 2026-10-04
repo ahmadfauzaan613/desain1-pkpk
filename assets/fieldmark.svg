@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Fieldmark</title>
+  <desc id="desc">An abstract red and gold mark inspired by terraced ground and forward movement.</desc>
+  <path fill="#b71924" d="M10 10h76v35H51v15H31V45H10z"/>
+  <path fill="#d4a900" d="M10 68h20V53h20v15h16V53h20v33H10z"/>
+  <path fill="#202124" d="M31 45h20v15H31z"/>
+</svg>
